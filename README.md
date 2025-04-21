@@ -5,7 +5,7 @@
 <p align="center">A Dangerously Fun Theme.</p>
 
 ##
-<span><i>👀 Support for additional editors and IDEs is coming soon!</i></span>
+<h5>👀 Support for additional editors and IDEs is coming soon!</h5>
 
 ##
 ## Preview
