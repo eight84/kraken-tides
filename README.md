@@ -2,5 +2,9 @@
 
 A Dangerously Fun Theme. 
 
+##
+<span>👀 Support for additional editors and IDEs is coming soon!</span>
+
+##
 ## Preview
-___
+
