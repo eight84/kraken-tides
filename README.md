@@ -7,25 +7,60 @@
 ##
 <h6 align="center">👀 Support for additional editors and IDEs is coming soon!</h6>
 
+
 ##
-## Preview
+## 🌊 Preview
+
+![kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/cdc9674c-d477-438e-8b06-85b8bd8c3079)
+
 
 ![jsx-kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/eaaa85c0-ce78-4f6f-9f19-5c8fa8d85b9b)
 
 
+## 🐙 Installation
 
+1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=eight84.kraken-tides)
+2. Click **Install**
+3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and choose `Preferences: Color Theme`
+4. Select **Belladonna**
 
-## Working with Markdown
+## Fonts
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+- I am using Operator Mono
+- Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Inspired By
 
-## For more information
+Belladonna was inspired by themes like:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<li><a href="https://draculatheme.com/"><code>🧛🏻‍♂️ Dracula Official</code></a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode"><code>🎧 SynthWave '84</code></a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"><code>🦉 Night Owl</code></a></li>
+</br>
 
-**Enjoy!**
+`Special thanks` to those themes and their creators for setting the bar high 🚀
+
+##
+### Enjoy this theme?
+
+<li><a href="https://marketplace.visualstudio.com/items?itemName=eight84.kraken-tides"><code>⭐ Leave a review </code></a></li>
+<li><a href="https://www.buymeacoffee.com/eight84"><code>☕️ Buy me a coffee</code></a></li>
+
+##
+### Feedback & Contributions
+
+Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
+
+<a href="https://github.com/eight84/kraken-tides/issues"><code> ↪ Open an issue </code></a>
+
+##
+##### License
+
+[`MIT License`](LICENSE) | © 2025 eight84
+
+##
+
+🪸 Kraken Tides: A dangerously fun theme. 🪸
+
+<a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="30px"></a>
+
