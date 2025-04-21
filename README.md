@@ -5,11 +5,12 @@
 <p align="center">A Dangerously Fun Theme.</p>
 
 ##
-<h5>👀 Support for additional editors and IDEs is coming soon!</h5>
+<h6 align="center">👀 Support for additional editors and IDEs is coming soon!</h6>
 
 ##
 ## Preview
 
+![jsx-kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/eaaa85c0-ce78-4f6f-9f19-5c8fa8d85b9b)
 
 
 
