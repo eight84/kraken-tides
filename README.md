@@ -22,7 +22,7 @@
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=eight84.kraken-tides)
 2. Click **Install**
 3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and choose `Preferences: Color Theme`
-4. Select **Belladonna**
+4. Select **Kraken Tides**
 
 ## Fonts
 
@@ -31,7 +31,7 @@
 
 ## Inspired By
 
-Belladonna was inspired by themes like:
+Kraken Tides was inspired by themes like:
 
 <li><a href="https://draculatheme.com/"><code>🧛🏻‍♂️ Dracula Official</code></a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode"><code>🎧 SynthWave '84</code></a></li>
