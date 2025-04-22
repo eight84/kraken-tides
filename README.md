@@ -11,7 +11,8 @@
 ##
 ## 🌊 Preview
 
-![kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/cdc9674c-d477-438e-8b06-85b8bd8c3079)
+![kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/b977e739-4f2c-4869-9332-36b71e351b4d)
+
 
 
 ![jsx-kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/eaaa85c0-ce78-4f6f-9f19-5c8fa8d85b9b)
