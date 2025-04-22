@@ -1,6 +1,6 @@
 
 <h6 align="center">Kraken Tides - VSCode Theme</h3>
-<img width="777" alt="kraken-tides-vscode-theme-sea" src="https://github.com/user-attachments/assets/3f52dca7-2ab1-4197-94f8-b4a3a2da16f5" />
+<img width="792" alt="kraken-tides-vscode-theme" src="https://github.com/user-attachments/assets/55dc4be1-153d-440c-9a7e-c5a5f12aefdd" />
 
 <p align="center">A Dangerously Fun Theme.</p>
 
@@ -11,7 +11,7 @@
 ##
 ## 🌊 Preview
 
-![kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/b977e739-4f2c-4869-9332-36b71e351b4d)
+![kraken-tides-theme-code-screenshot](https://github.com/user-attachments/assets/1a88a5e9-1efd-416a-a632-8be93ebd2fac)
 
 
 
